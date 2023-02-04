@@ -2,5 +2,5 @@
 
 1. instructions: create a virtual environment:
 ```
-python3 -m venv venv
+    python3 -m venv venv
 ```
